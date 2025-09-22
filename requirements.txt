@@ -1,6 +1,5 @@
 Flask==2.3.3
 gunicorn==21.2.0
-# add your ML libraries if needed
-tensorflow==2.13.0
+tensorflow==2.20.0
 numpy==1.25.0
 pandas==2.1.0
